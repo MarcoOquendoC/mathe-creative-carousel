@@ -32,6 +32,7 @@
 # 📖 Carousel <a name="about-project"></a>
 
 **Carousel** styled with HTML/CSS. Its design supports five cards. The cards are inside label tags, so it could handle clicks on the cards, switching styling based on the current checked card.
+It also uses [lorem picsum](https://picsum.photos/) API to fetch random images.
 
 ### 🛠 Built With <a name="built-with"></a>
 
@@ -51,7 +52,7 @@
 
 ### 🚀 Live Demo <a name="live-demo"></a>
 
-- [Comming Soon](#)
+- [Carousel](https://marcooquendoc.github.io/mathe-creative-carousel/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
